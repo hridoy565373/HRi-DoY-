@@ -28,11 +28,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Nh ami চুপ থাকবো না.😼 হৃদয় বস আমারে কথা বলতে বলছে🤭", threadID);
    };
 
-   if ((event.body.toLowerCase() == "mahi") || (event.body.toLowerCase() == "mahi")) {
+   if ((event.body.toLowerCase() == "eva") || (event.body.toLowerCase() == "eva")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস হৃদয় এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "mahi") || (event.body.toLowerCase() == "ইভা")) {
+   if ((event.body.toLowerCase() == "eva") || (event.body.toLowerCase() == "ইভা")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস জিহাদ এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   

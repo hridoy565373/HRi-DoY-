@@ -1,5 +1,5 @@
 {
-  "author": "Hridoy",
+  "author": "Nayan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,15 +9,16 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "HRIDOY",
+  "BOTNAME": "nayan-bot",
   "PREFIX": "/",
+  "react": "☠️",
   "OPERATOR": [
-    "100067540204855",
-    "61552569068721"
+    "",
+    "100000959749712"
   ],
   "ADMINBOT": [
-    "61552569068721",
-    "61552569068721"
+    "100000959749712",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
